@@ -3,7 +3,7 @@
 <img src="https://github-stat.alpaca.run/api?username=lonhon&show_icons=true&include_all_commits=true"/>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=LonHon.LonHon)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=LonHon.LonHon) -->
 
 <!--
 **LonHon/LonHon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
